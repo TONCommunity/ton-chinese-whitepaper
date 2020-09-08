@@ -2,7 +2,7 @@
 <p align="center">作者：Dr. Nikolai Durov</p>
 <p align="center">译者：<a href="https://github.com/toozwu">吴泰</a>、<a href="https://github.com/lucas3s">lucas3s</a>、<a href="https://github.com/Inkiy">Inkiy</a>、<a href="https://github.com/HeyRoseWu">CryptoRose</a>、<a href="https://github.com/ecrivaine">Erica</a></p>
 <p align="center">原文：<a href="">TON White Paper</a></p>
-<p align="center">版权所有：TON中国社区-tooz@toncommunity.org</p>
+<p align="center">版权所有：TON中国社区-如需转载，请联络tooz@toncommunity.org</p>
 
 ## 摘要：
 本文主要目的是介绍Telegram Open Network（TON）和相关区块链、点对点、分布式存储和托管服务技术。篇幅有限，我们将重点关注TON平台的独特性和定义性特质，这对实现TON的既定目标非常重要。
