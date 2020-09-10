@@ -11,6 +11,7 @@
 Telegram Open Newtwork（TON）是一个快速、安全且可扩展的区块链和网络项目，在必要的情况下，它可达百万级别TPS 1 ，对普通用户与服务供应商而言都是友好的。TON的目标是能够容纳当前已提出和构想中的所有应用。我们可以认为TON是一个巨大的分布式超级计算机，或者更确切地说是一个巨大的“超级服务器”，旨在托管和提供各种服务。本文不构成各种实施细节的最终参考文献。在开发和测试阶段， 一些细节可能会发生变化。
 
 ## 1 TON 概述
+Telegram Open Network（TON）由以下几个组件组成：
 
 <p align="center"><a href="https://github.com/ecrivaine/ton-chinese-whitepaper/blob/master/TON-White-Paper-CN.pdf">继续阅读</a></p>
 
